@@ -50,7 +50,7 @@
         <input type="submit" name="submit" id="submitBtn">
 
     </form>
-
+    <div id="message"></div>
 </body>
 
 </html>
